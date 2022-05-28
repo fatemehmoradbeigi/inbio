@@ -169,6 +169,10 @@ main{
     background-color: black;
 }
 
+.text-right{
+    text-align: right;
+}
+
 .inbox{
 
     height: auto;
